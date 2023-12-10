@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suruchi-21
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate with well known raputed company.
+- 👀 I’m interested in Fullstack development.
+- 🌱 I’m currently learning various skills.
+- 💞️ I’m looking to collaborate with a well-known reputed company.
 - 📫 How to reach me through my email " suruchi5221@gmail.com
 
 <!---
